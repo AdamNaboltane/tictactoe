@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1603025327811,
+  "index": "https://adamnaboltane.github.io/tictactoe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://adamnaboltane.github.io/tictactoe/favicon.ico",
+        "https://adamnaboltane.github.io/tictactoe/index.html",
+        "https://adamnaboltane.github.io/tictactoe/main.1c6fa8914c6e57f09628.js",
+        "https://adamnaboltane.github.io/tictactoe/manifest.webmanifest",
+        "https://adamnaboltane.github.io/tictactoe/polyfills.35a5ca1855eb057f016a.js",
+        "https://adamnaboltane.github.io/tictactoe/runtime.acf0dec4155e77772545.js",
+        "https://adamnaboltane.github.io/tictactoe/styles.8d794453282549e02c70.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-128x128.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-144x144.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-152x152.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-192x192.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-384x384.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-512x512.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-72x72.png",
+        "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://adamnaboltane.github.io/tictactoe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://adamnaboltane.github.io/tictactoe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://adamnaboltane.github.io/tictactoe/index.html": "dfbba728ccd3eb375413220d63f139f15bc137ed",
+    "https://adamnaboltane.github.io/tictactoe/main.1c6fa8914c6e57f09628.js": "c053ed8adee0511a0360c9cc7f914226ff27c39e",
+    "https://adamnaboltane.github.io/tictactoe/manifest.webmanifest": "09910634b75baf8db685efd0e188a85472406249",
+    "https://adamnaboltane.github.io/tictactoe/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
+    "https://adamnaboltane.github.io/tictactoe/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://adamnaboltane.github.io/tictactoe/styles.8d794453282549e02c70.css": "a5bad365465bd2caf922ff1e3d6d27d37875496f"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
